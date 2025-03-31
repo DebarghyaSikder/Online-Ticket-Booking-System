@@ -1,0 +1,1 @@
+The Online Ticket Booking System is a Java-based application that allows users to book tickets for events, movies, or travel. The system provides features like user authentication, seat selection, payment processing, and an admin panel for event management. For security, I have used BCrypt(for Password Hashing) and HTTPS(for secure communication).
